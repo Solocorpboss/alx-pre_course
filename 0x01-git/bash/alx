@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< Updated upstream
 ALX School
+=======
+echo "ALX School"
+
+>>>>>>> Stashed changes
